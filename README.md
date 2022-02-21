@@ -1,6 +1,6 @@
 ## Table of Contents
 
-[toc]
+{:toc}
 
 ## Form Factor Research
 
